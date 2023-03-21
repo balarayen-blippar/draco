@@ -1,2 +1,4 @@
 **/.DS_Store
+build_arm64/
+build_armv7/
 docs/_site
